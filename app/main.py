@@ -16,8 +16,7 @@ async def predict():
     """
 
     symbols = ["ACES.JK", "ADRO.JK", "AMMN.JK", "AMRT.JK", "ANTM.JK", 
-               "ARTO.JK", "ASII.JK", "BBCA.JK", "BBNI.JK", "BBRI.JK",
-                "BBTN.JK", "BMRI.JK", "BRIS.JK", "BRPT.JK", "BUKA.JK"
+               "ARTO.JK", "ASII.JK", "BBCA.JK", "BBNI.JK", "BBRI.JK"
                 ]
     
     for symbol in symbols:
